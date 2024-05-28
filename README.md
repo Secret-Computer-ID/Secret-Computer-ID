@@ -20,7 +20,7 @@ Only a little, namely being able to create your own AI
 
 
 ### Statistics
-![AfifSaidAwalxyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfifSaidAwalxyz&show_icons=true&theme=radical)
+![AfifSaidAwalxyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Secret-Computer-ID&show_icons=true&theme=radical)
 
 
 
