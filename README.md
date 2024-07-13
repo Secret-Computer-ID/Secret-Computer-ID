@@ -25,6 +25,6 @@ Only a little, namely being able to create your own AI
 
 
 ### Now playing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31y7rbsxlft77qhrbweazyaw5vq4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=317a2e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31y7rbsxlft77qhrbweazyaw5vq4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31y7rbsxlft77qhrbweazyaw5vq4&redirect=true)
 
 <sub>*This README file is best viewed on <strong>Windows 11 LTSC</strong></sub>
