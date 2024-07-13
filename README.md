@@ -3,7 +3,7 @@
 
 I primarily code in **Python** as a hobby and I am now a student in grade 8 of junior high school
 
-I have 390 subscribers on [YouTube](https://www.youtube.com/@SecretComputerID) and 57 followers on [Instagram](https://instagram.com/afifxzzs_.0x01b).  
+I have 397+ subscribers on [YouTube](https://www.youtube.com/@SecretComputerID) and 57 followers on [Instagram](https://instagram.com/afifxzzs_.0x01b).  
 **I am Secret Computer ID, but you can call me Afif.**
 
 <img align="right" alt="Secret Computer ID Logo" width="180" src="https://github.com/AfifSaidAwalxyz/Secret-Computer-ID/blob/main/logo.png" />
